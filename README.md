@@ -75,11 +75,3 @@ This is a personal project. No specific license is provided, but you're welcome 
 ## Author / Contact
 
 Created as a personal Java game development project. Feel free to fork, modify, or extend the codebase. To make changes, edit the `.java` files and recompile as shown above.
-
----
-
-If you'd like, I can:
-
-- produce a small `build.bat` to compile/run on Windows,
-- create an executable JAR,
-- or add small improvements (pause, start screen, or AI). Tell me which and I'll implement it.
